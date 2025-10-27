@@ -1,0 +1,14 @@
+{
+  "name": "eg-smart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^6.0.0",
+    "zod": "^3.22.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
